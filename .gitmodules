@@ -9,3 +9,7 @@
 [submodule "mdev-like-a-boss"]
    path = mdev-like-a-boss
    url = https://github.com/removed-user/mdev-like-a-boss
+
+[submodules "mdevd"]
+   path = mdevd
+   url = https://github.com/removed-user/mdevd

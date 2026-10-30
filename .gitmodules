@@ -5,3 +5,7 @@
 [submodule "nlmon"]
    path = nlmon
    url = git://r-36.net/nlmon
+
+[submodule "mdev-like-a-boss"]
+   path = mdev-like-a-boss
+   url = https://github.com/removed-user/mdev-like-a-boss

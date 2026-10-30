@@ -10,6 +10,10 @@
    path = mdev-like-a-boss
    url = https://github.com/removed-user/mdev-like-a-boss
 
-[submodules "mdevd"]
+[submodule "mdevd"]
    path = mdevd
    url = https://github.com/removed-user/mdevd
+
+[submodule "smdev"]
+   path = smdev
+   url = git://git.suckless.org/smdev

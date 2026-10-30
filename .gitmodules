@@ -1,0 +1,7 @@
+[submodule "nldev"]
+   path = nldev
+   url = git://r-36.net/nldev
+
+[submodule "nlmon"]
+   path = nlmon
+   url = git://r-36.net/nlmon

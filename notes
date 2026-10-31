@@ -1,1 +1,28 @@
+Some of these are just - "to be investigated." 
+Somehow we've got more than 3 variants of mdev and - 
+It doesn't seem any of them is the one I used?
+
+1. Needs to be compatible with a config file.
+2. not have a database
+3. have a compat-library to replace libudev "libudev-zero"
+4. have a Kernel Uevent listener daemon library "nldev"
+5. handle coldplug on startup "shell scripts"
+
+
 needs tool for executing network-interface renaming scripts using `nameif`
+
+"If using mdevd", look at mdevd-coldplug
+Should be able to find some decent coldplug scripts to handle many devices, there?
+
+if not I might have to write it myself. 
+
+regardless I'll have to add a "coldplug" submodule and - 
+create a repo for storing the coldplug rules. 
+
+With that, this should equate to a ... 
+- fully functional
+- minimal
+- high performance
+mdev setup that
+- doesnt get in your way
+- maintains compatibility with tools that explicitly "require" udev

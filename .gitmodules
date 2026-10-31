@@ -17,3 +17,7 @@
 [submodule "smdev"]
    path = smdev
    url = git://git.suckless.org/smdev
+
+[submodule "libudev-zero"]
+   path = libudev-zero
+   url = https://github.com/removed-user/libudev-zero
